@@ -1,2 +1,2 @@
-# FaceRec-UserControl
-Automated Security System with User Control and Facial Recognition
+# Automated Security System with User Control and Facial Recognition
+The application uses a light sensor to determine if facial recognition is possible or if it should switch to manual mode via a keypad. The facial recognition system, implemented in Python, involves three steps: automatic photo capture, dataset training, and recognition. Additionally, Arduino components were added to build a prototype that controls door operations based on scenarios.
