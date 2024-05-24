@@ -1,6 +1,4 @@
 # Automated Security System with User Control and Facial Recognition
-This project was presented at the AFCO competition, where it was also awarded. <br/>
-<br/>
   The project encompasses a model that integrates an Arduino UNO development board, an LCD screen, an LED traffic light module, a door controlled by a stepper motor with the necessary driver, a keypad, a buzzer, a video camera and a photoresistor. <br/>
 <br/>
   The system operates under two primary scenarios based on the photoresistor's light detection capability:<br/>
